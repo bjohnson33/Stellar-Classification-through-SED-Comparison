@@ -1,0 +1,3 @@
+# StarName  U Uerr B Berr V Verr I Ierr J Jerr H Herr Ks Kserr 3.6 3.6err 4.5 4.5err 5.8 5.8err 8.0 8.0err
+
+Star5	14.20  0.10  15.04  0.02  15.31  0.023  15.27  0.16  15.26  0.03  15.14  0.04  15.06  0.06  14.41  0.04  13.99  0.03  14.00  0.06  13.46  0.07 
