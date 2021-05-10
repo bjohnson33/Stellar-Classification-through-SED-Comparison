@@ -1,4 +1,0 @@
-Name                  RAJ2000     DEJ2000    Umag    Bmag    Vmag    Imag    Jmag    Hmag    Ksmag   [3.6]   [4.5]   [5.8]   [8.0]  Class                           
-                        deg         deg       mag     mag     mag     mag     mag     mag     mag     mag     mag     mag     mag        
-                           
-Sk -69 80           078.545997  -69.543526  11.494  11.409  11.374  10.789  10.505  10.388  10.314  10.171  10.113  10.078  10.024  B8:-;F2 Ia     
